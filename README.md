@@ -9,3 +9,4 @@ A hello world script for almost every programming language. At least that’s th
 4. Batch
 5. Swift
 6. C
+7. Rust
